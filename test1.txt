@@ -1,0 +1,2 @@
+This is new file test1.txt.
+I have created and added it to local repository.
